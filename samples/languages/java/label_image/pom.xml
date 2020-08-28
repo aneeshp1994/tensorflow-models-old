@@ -18,9 +18,9 @@
       </dependency>
       <!-- For ByteStreams.toByteArray: https://google.github.io/guava/releases/23.0/api/docs/com/google/common/io/ByteStreams.html --> 
       <dependency>
-          <groupId>com.google.guava</groupId>
-          <artifactId>guava</artifactId>
-          <version>23.6-jre</version>
+        <groupId>com.google.guava</groupId>
+        <artifactId>guava</artifactId>
+        <version>[24.1.1,)</version>
       </dependency>
     </dependencies>
 </project>
